@@ -3,7 +3,8 @@
 
 Neta DAO is proud to announce that DAO staking is live.
 
-Here's the link to the DAO: [edit in link]
+Here's the link to the DAO: [Neta DAO on DAODAO](https://daodao.zone/dao/juno1c5v6jkmre5xa9vf9aas6yxewc7aqmjy0rlkkyk4d88pnwuhclyhsrhhns6)  
+Here's the contract address: juno1c5v6jkmre5xa9vf9aas6yxewc7aqmjy0rlkkyk4d88pnwuhclyhsrhhns6
 
 **Before you go and stake, please read this document in its entirety.**
 
